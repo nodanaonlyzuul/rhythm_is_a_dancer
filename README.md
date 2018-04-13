@@ -1,8 +1,6 @@
 # RhythmIsADancer
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/rhythm_is_a_dancer`. To experiment with that code, run `bin/console` for an interactive prompt.
-
-TODO: Delete this and the text above, and describe your gem
+The world's only & most performant library to find out if Rhythm is a dancer.
 
 ## Installation
 
@@ -22,7 +20,14 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+require 'rhythm_is_a_dancer'
+
+RHYTHM.is_a?(Dancer)
+ # => true
+YOU.can_feel_it?
+ # => true
+```
 
 ## Development
 
@@ -32,5 +37,4 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/rhythm_is_a_dancer.
-
+Bug reports and pull requests are welcome on GitHub at https://github.com/nodanaonlyzuul/rhythm_is_a_dancer.
