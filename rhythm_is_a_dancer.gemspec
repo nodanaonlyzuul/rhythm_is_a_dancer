@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ["nodanaonlyzuul"]
   spec.email         = ["beholdthepanda@gmail.com"]
 
-  spec.summary       = %q{A lightweight decision engine.}
+  spec.summary       = %q{The world's only & most performant library to find out if Rhythm is a dancer.}
   spec.homepage      = "http://github.com/nodanaonlyzuul/rhythm_is_a_dancer"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'

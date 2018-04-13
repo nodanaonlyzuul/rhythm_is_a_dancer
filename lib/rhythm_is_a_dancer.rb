@@ -4,4 +4,10 @@ class Dancer
 
 end
 
+YOU = Class.new do
+  def self.can_feel_it?
+    true
+  end
+end
+
 RHYTHM = Dancer.new
