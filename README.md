@@ -2,6 +2,8 @@
 
 The world's only & most performant library to find out if Rhythm is a dancer.
 
+![ScreenShot](./assets/terminal.png)
+
 ## Installation
 
 Add this line to your application's Gemfile:
